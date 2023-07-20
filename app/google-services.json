@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563849528032",
+    "firebase_url": "https://riot-sms-server-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "riot-sms-server",
+    "storage_bucket": "riot-sms-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563849528032:android:ca1f475b623b369062c685",
+        "android_client_info": {
+          "package_name": "com.aspegrenide.sms_gpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563849528032-d8i9rrd7he0u9ces0mg2p37458u6m2va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyt9Ohx1VIz69RFYs77Pt12jmi2nk0iVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563849528032-d8i9rrd7he0u9ces0mg2p37458u6m2va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
